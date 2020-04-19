@@ -3,7 +3,7 @@ Roster and other tallies on LexDAO Legal Engineers 🧮
 
 [LexDAO Coder Tokens](https://etherscan.io/token/0x611FE161F207306aC53d058EDfFAD9d34bce0bda) ⚔️⬆️
 
-Path To Legal Engineering Certification Consideration by [LexDAO Cred Aragon sub_DAO](https://nightly.aragon.org/#/lexdaocred): 🗺️
+👉 path to Legal Engineering Certification Consideration by [LexDAO Cred Aragon sub_DAO](https://nightly.aragon.org/#/lexdaocred): 🗺️
 - Earn 10 LexCoder Tokens 🔟
 - [ . . . . ]
 
