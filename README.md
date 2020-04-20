@@ -1,7 +1,7 @@
 # Legal Engineers
 > [LexDAO Legal Engineering Kudo (LXK)](https://etherscan.io/token/0x4D9D9a22458dD84dB8B0D074470f5d9536116eC5) ⚔️⬆️
 
-Legal Engineering Certification by [LexDAO Cred Aragon sub_DAO](https://nightly.aragon.org/#/lexdaocred) requires: 
+Legal Engineering Certification by [LexDAO Cred sub_DAO](https://nightly.aragon.org/#/lexdaocred) requires: 
 - 10 LXK 🔟
 
 LXK are [LexSecurity Tokens](https://github.com/lexDAO/Security-Token). The following Legal Engineers have admin and mint authority to make awards:
