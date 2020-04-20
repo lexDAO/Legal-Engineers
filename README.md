@@ -5,7 +5,8 @@ Roster and other tallies on LexDAO Legal Engineers 🧮
 
 👉 path to Legal Engineering Certification Consideration by [LexDAO Cred Aragon sub_DAO](https://nightly.aragon.org/#/lexdaocred): 🗺️
 - Earn 10 LXK 🔟
-- [ . . . . ]
+
+LXK are [LexSecurity Tokens](https://github.com/lexDAO/Security-Token). The following Legal Engineers have admin and mint authority to make awards:
 
 ## LexDAO Legal Engineers 🕶️
 | Name | Ethereum Address | 
