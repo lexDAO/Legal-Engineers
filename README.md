@@ -6,7 +6,7 @@ Legal Engineering Certification by [LexDAO Cred sub_DAO](https://nightly.aragon.
 
 LXK are [LexSecurity Tokens](https://github.com/lexDAO/Security-Token). The following Legal Engineers have admin and mint authority to make awards:
 
-## LexDAO Legal Engineer Apprentices
+## LexDAO Legal Engineer Apprentices 🛡️
 | Name | Ethereum Address | LXK | 
 |----------|:-------------:| :-------------:|
 | Bill Warren | [`0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca`](https://etherscan.io/address/0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca) | 3 |
