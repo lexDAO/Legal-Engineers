@@ -13,7 +13,7 @@ LXK are [LexSecurity Tokens](https://github.com/lexDAO/Security-Token).
 | Stamford Hwang | [`0x4744cda32bE7b3e75b9334001da9ED21789d4c0d`](https://etherscan.io/address/0x4744cda32bE7b3e75b9334001da9ED21789d4c0d) | 1.3 |
 | Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | 1.25 |
 | Anastasia Mackert | [`0x36306c060497b8df0b34485181c012b7acae77b1`](https://etherscan.io/address/0x36306c060497b8df0b34485181c012b7acae77b1) | 0.5 |
-| Adam Kerpelman | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | 0.5 |
+| Adam Kerpelman | [`0xa3564677FC4907A15c9A7EAe1DBc1ae9aC57b8E1`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | 0.5 |
 
 ## LexDAO Legal Engineers 🕶️
 The following Legal Engineers have admin and mint authority to make awards:
