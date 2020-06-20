@@ -9,9 +9,6 @@ LXK are [LexSecurity Tokens](https://github.com/lexDAO/Security-Token).
 ## LexDAO Legal Engineer Apprentices 🛡️
 | Name | Ethereum Address | LXK | 
 |----------|:-------------:| :-------------:|
-| Adam Kerpelman | [`0xa3564677FC4907A15c9A7EAe1DBc1ae9aC57b8E1`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | 10 |
-| Stamford Hwang | [`0x4744cda32bE7b3e75b9334001da9ED21789d4c0d`](https://etherscan.io/address/0x4744cda32bE7b3e75b9334001da9ED21789d4c0d) | 10 |
-| Bill Warren | [`0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca`](https://etherscan.io/address/0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca) | 10 |
 | Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | 6.25 |
 | Anastasia Mackert | [`0x36306c060497b8df0b34485181c012b7acae77b1`](https://etherscan.io/address/0x36306c060497b8df0b34485181c012b7acae77b1) | 3.5 |
 
@@ -26,5 +23,8 @@ The following Legal Engineers have admin and mint authority to make awards:
 | Alex Fagella | [`0x756CE9C56B02f05b5FaFfaFc707B552bEDce83eE`](https://etherscan.io/address/0x756ce9c56b02f05b5faffafc707b552bedce83ee) | 
 | James McCall | [`0xd5B3988eD0AB5ec375E51bB6fd10e205cEC16A2E`](https://etherscan.io/address/0xd5B3988eD0AB5ec375E51bB6fd10e205cEC16A2E) | 
 | Scott Stevenson | [`0x130093A5aEbc07e78e16f0EcEF09d1c45AfD8178`](https://etherscan.io/address/0x130093A5aEbc07e78e16f0EcEF09d1c45AfD8178) | 
+| Adam Kerpelman | [`0xa3564677FC4907A15c9A7EAe1DBc1ae9aC57b8E1`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | 10 |
+| Stamford Hwang | [`0x4744cda32bE7b3e75b9334001da9ED21789d4c0d`](https://etherscan.io/address/0x4744cda32bE7b3e75b9334001da9ED21789d4c0d) | 10 |
+| Bill Warren | [`0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca`](https://etherscan.io/address/0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca) | 10 |
 
 [Legal Engineer NFT Registry](https://etherscan.io/token/0xba2e37f18b647f19aa2e48581729fc4d0131b270) ✨
