@@ -9,7 +9,7 @@ LXK are [LexSecurity Tokens](https://github.com/lexDAO/Security-Token).
 ## LexDAO Legal Engineer Apprentices 🛡️
 | Name | Ethereum Address | LXK | 
 |----------|:-------------:| :-------------:|
-| Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | 6.25 |
+| Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | 8.25 |
 | Anastasia Mackert | [`0x36306c060497b8df0b34485181c012b7acae77b1`](https://etherscan.io/address/0x36306c060497b8df0b34485181c012b7acae77b1) | 3.5 |
 
 ## LexDAO Legal Engineers 🕶️
