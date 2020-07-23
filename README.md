@@ -4,7 +4,10 @@
 Legal Engineering Certification by [LexDAO Cred sub_DAO](https://nightly.aragon.org/#/lexdaocred) requires: 
 - 10 LXK 🔟
 
-LXK are [LexSecurity Tokens](https://github.com/lexDAO/Security-Token). 
+LXK are [LexSecurity Tokens](https://github.com/lexDAO/Security-Token).
+
+## Eligibility to join LexDAO Legal Engineering
+We take on apprentices who have established legal training (J.D., practice experience, etc.) and interest in coding value, dispute and other legal engineering protocols.
 
 ## LexDAO Legal Engineer Apprentices 🛡️
 | Name | Ethereum Address | LXK | 
