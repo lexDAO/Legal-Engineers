@@ -34,4 +34,6 @@ The following Legal Engineers have admin and mint authority to make awards:
 | Stamford Hwang | [`0x4744cda32bE7b3e75b9334001da9ED21789d4c0d`](https://etherscan.io/address/0x4744cda32bE7b3e75b9334001da9ED21789d4c0d) | 10 |
 | Bill Warren | [`0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca`](https://etherscan.io/address/0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca) | 10 |
 
+Awards can be documented and executed using the following OpenLaw ricardian template: [📜](https://lib.openlaw.io/web/default/template/LexDAO%20Legal%20Engineer%20Kudo)
+
 [Legal Engineer NFT Registry](https://etherscan.io/token/0xba2e37f18b647f19aa2e48581729fc4d0131b270) ✨
