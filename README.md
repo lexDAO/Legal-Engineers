@@ -10,7 +10,9 @@ LXK are [LexSecurity Tokens](https://github.com/lexDAO/Security-Token).
 | Name | Ethereum Address | LXK | 
 |----------|:-------------:| :-------------:|
 | Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | 8.25 |
-| Anastasia Mackert | [`0x36306c060497b8df0b34485181c012b7acae77b1`](https://etherscan.io/address/0x36306c060497b8df0b34485181c012b7acae77b1) | 3.5 |
+| Anastasia Mackert | [`0x36306c060497b8df0b34485181c012b7acae77b1`](https://etherscan.io/address/0x36306c060497b8df0b34485181c012b7acae77b1) | 5 |
+| Romain Figuereo | [`0x7285502ED0A0Ed25F65941E480bda7114492acF9`](https://etherscan.io/address/0x7285502ED0A0Ed25F65941E480bda7114492acF9) | 2 |
+| Esen Esener | [`0xC2d6416F5BE67AaCBcd516580b36D06884E3A2E1`](https://etherscan.io/address/0xC2d6416F5BE67AaCBcd516580b36D06884E3A2E1) | 2 |
 
 ## LexDAO Legal Engineers 🕶️
 The following Legal Engineers have admin and mint authority to make awards:
