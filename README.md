@@ -1,25 +1,26 @@
 # Legal Engineers
-> [LexDAO Legal Engineering Kudo (LXK)](https://etherscan.io/token/0x4D9D9a22458dD84dB8B0D074470f5d9536116eC5) ⚔️⬆️
 
-Legal Engineering Certification by [LexDAO Cred sub_DAO](https://nightly.aragon.org/#/lexdaocred) requires: 
-- 10 LXK 🔟
+## What is Legal Engineering?
 
-LXK are [LexSecurity Tokens](https://github.com/lexDAO/Security-Token).
+There are many definitions (see [background](https://www.legalbusinessworld.com/post/2020/02/17/an-essay-on-legal-engineering-from-confusion-to-clarity)) but for LexDAO purposes: 
+
+`the design of computational law applications`
+
+Legal Engineering Certification by [LexDAO vote](https://gnosis-safe.io/app/#/safes/0x5B620676E28693fC14876b035b08CbB1B657dF38/transactions) requires demonstrated: 
+- contributions in the field of computational law
+- aptitude in web3 applications and design
+- support of LexDAO initiatives
+
+## Why apply for LexDAO certification?
+
+LexDAO Engineers (see roster below) have established reputation and work history among law firms and cryptonetworks. Joining our ranks lets the public know you support our mission and have been vetted. You can put "LexDAO Engineer" in your twitter or law firm bio, go forth and conquer. Being a LexDAO engineer also makes you eligible to serve in more advanced legal engineering roles, like working on digital arbitration panels.
 
 ## Eligibility to join LexDAO Legal Engineering
 We take on apprentices who have established legal training (J.D., practice experience, etc.) and interest in coding value, dispute and other legal engineering protocols.
 
-## LexDAO Legal Engineer Apprentices 🛡️
-| Name | Ethereum Address | LXK | 
-|----------|:-------------:| :-------------:|
-| Anastasia Mackert | [`0x36306c060497b8df0b34485181c012b7acae77b1`](https://etherscan.io/address/0x36306c060497b8df0b34485181c012b7acae77b1) | 5 |
-| Romain Figuereo | [`0x7285502ED0A0Ed25F65941E480bda7114492acF9`](https://etherscan.io/address/0x7285502ED0A0Ed25F65941E480bda7114492acF9) | 2 |
-| Esen Esener | [`0xC2d6416F5BE67AaCBcd516580b36D06884E3A2E1`](https://etherscan.io/address/0xC2d6416F5BE67AaCBcd516580b36D06884E3A2E1) | 2 |
-| Faith Obafemi | [`0x423afc4406d10C726d5d664D2997571e69D1875F`](https://etherscan.io/address/0x423afc4406d10C726d5d664D2997571e69D1875F) | 2 |
-| Dmitry Narozhny | [`0x1bc9e52bAa93Dab1a47c3168f6d82ED08856Ec83`](https://etherscan.io/address/0x1bc9e52bAa93Dab1a47c3168f6d82ED08856Ec83) | 2 |
+Join our [discord chat](https://discord.com/invite/M4jxXmk) and check out our `Certification` channel to learn more.
 
 ## LexDAO Legal Engineers 🕶️
-The following Legal Engineers have admin and mint authority to make awards:
 
 | Name | Ethereum Address | 
 |----------|:-------------:| 
@@ -33,7 +34,6 @@ The following Legal Engineers have admin and mint authority to make awards:
 | Stamford Hwang | [`0x4744cda32bE7b3e75b9334001da9ED21789d4c0d`](https://etherscan.io/address/0x4744cda32bE7b3e75b9334001da9ED21789d4c0d) | 
 | Bill Warren | [`0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca`](https://etherscan.io/address/0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca) | 
 | Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | 
+| Nick Rishwain | [`0xCbbd18d3aC27ab0FFfD04BCCd091B2802c92e0ca`](https://etherscan.io/address/0xCbbd18d3aC27ab0FFfD04BCCd091B2802c92e0ca) | 
 
-Awards can be documented and executed using the following OpenLaw ricardian template: [📜](https://lib.openlaw.io/web/default/template/LexDAO%20Legal%20Engineer%20Kudo)
-
-[Legal Engineer NFT Registry](https://etherscan.io/token/0xba2e37f18b647f19aa2e48581729fc4d0131b270) ✨
+[Legal Engineer NFT Registry](https://etherscan.io/token/0x7106bb3faAA84ffF35Ed57405d24D47deA6Df183) ✨
