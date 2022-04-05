@@ -19,7 +19,7 @@ What does this mean in practice? Check out some projects being built by LexDAO e
 
 Is there a path to certification?
 
-*Joining the weekly LexDAO engineering calls on Friday 12 pm ET in discord, contributing to research and working group discussions, publishing articles, and similar, are great ways to demonstrate qualifications. A more linear path would involve (i) writing and deploying a smart contract with legal applications, (ii) designing a legal framework around smart contracts, and (iii) working on a LexDAO engineering project (see above).
+*Joining the weekly LexDAO engineering calls on Friday 12 pm ET in discord, contributing to research and working group discussions, publishing articles, and similar, are great ways to demonstrate qualifications. A more linear path would involve (i) writing and deploying a smart contract with legal applications, (ii) designing a legal framework around smart contracts, and (iii) working on a LexDAO engineering project (see above).*
 
 ## Why apply for LexDAO certification?
 
