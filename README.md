@@ -6,31 +6,55 @@ There are many definitions (see [background](https://www.legalbusinessworld.com/
 
 `the design of computational law applications`
 
-Legal Engineering Certification by [LexDAO vote](https://gnosis-safe.io/app/#/safes/0x5B620676E28693fC14876b035b08CbB1B657dF38/transactions) requires demonstrated: 
-- contributions in the field of computational law
-- aptitude in web3 applications and design
-- support of LexDAO initiatives to further the same
+Legal Engineering Certification by [LexDAO vote](https://gnosis-safe.io/app/#/safes/0x5B620676E28693fC14876b035b08CbB1B657dF38/transactions) of your peers requires demonstrated: 
+- contributions in the field of computational law (developing H-shaped skills in code+law);
+- aptitude in web3 applications and design (including understanding wet-ink contracts);
+- support of LexDAO initiatives to further the same (eg mentoring, thought leadership).
 
 What does this mean in practice? Check out some projects being built by LexDAO engineers:
 - [KALI DAO Incorporator](https://app.kalidao.xyz/)
-- [LexDAO CRED](https://opensea.io/collection/lexdao-cred)
 - [Real Property Tokenization](https://lexdao.substack.com/p/when-daos-get-real-managing-real?s=r)
 - [Open Source Law](https://github.com/ErichDylus/Open-Source-Law)
+- [AI powered crypto wallet assistant](https://nani.ooo/)
 
-Is there a path to certification?
+## Is there a path to certification?
 
-*Joining the weekly LexDAO engineering calls on Friday 12 pm ET in discord, contributing to research and working group discussions, publishing articles, and similar, are great ways to demonstrate qualifications. A more linear path would involve (i) writing and deploying a smart contract with legal applications, (ii) designing a legal framework around smart contracts, and (iii) working on a LexDAO engineering project (see above).*
+Joining the LexDAO squabbles in discord, contributing to research and working group discussions, publishing articles, and similar, are great ways to demonstrate qualifications. A more linear path based on skill-trees would involve: 
+1. 🧙 writing and deploying a smart contract with legal applications or high regulatory compliance,
+2. 🏹 designing a legal framework for people using smart contract instruments/mechanisms, and 
+3. 🏴‍☠️ working on a LexDAO engineering project (see above) via hackathons or sprints as l'expert.
 
 ## Why apply for LexDAO certification?
 
-LexDAO Engineers (see roster below) have established reputation and work history among law firms and web3 protocols. Joining our ranks lets the public know you support our mission and have been vetted. You can put "LexDAO Engineer" in your twitter or law firm bio, go forth and conquer. Being a LexDAO engineer also makes you eligible to serve in more advanced legal engineering roles within our network, like working on digital arbitration panels.
+LexDAO Engineers (see roster below) have established reputation and work history among law firms and web3 protocols. Joining our ranks lets the public know you support our mission and have been vetted. You can append "| LexDAO" as your discord handle, add "LexDAO Engineer" in your twitter or law firm bio, or unlock additional powers with affiliated partners. Being a LexDAO engineer also makes you eligible to serve in more advanced legal engineering roles within our network, like working on digital arbitration panels or being on editorial board of our journals. Plus you'd be getting a NFTy dynamic badge once we get our collective trustmark registered.
 
 ## Eligibility to join LexDAO Legal Engineering
-We take on apprentices who have established legal training (J.D., practice experience, etc.) and interest in coding value, dispute and other legal engineering protocols.
 
-Join our [discord chat](https://discord.com/invite/M4jxXmk) and check out our `Certification` channel to learn more.
+We have a dual path where apprentices who have established legal training (J.D., paralegal experience, etc.) gains practice in coding value, dispute and other legal engineering protocols --or-- skillup developers or project managers in cyberlaw, RegTech and compliance. We point out that Legal Enginner **CANNOT** give legal advice (unless admitted to the bar) but would have a working knowledge at least at the paralegal level.
 
-## LexDAO Legal Engineers 🕶️
+Join our [discord chat](https://discord.com/invite/M4jxXmk) and check out our `Member` channel to learn more (ask for guest pass in `introductions` if you can't see that channel).
+
+```mermaid
+journey
+title Journey to becoming L'expert in Legal Engineering
+section Apprentice
+  Discord guest:  3: Me
+  Can't afford membership: 1: Me
+  Work as l'extern: 4: Me, Mentor
+  DeWork task: 2: Me, Squab
+  Hackathon voted MVP: 7: Squab
+section Journey(wo)man e'LEETH
+  Micro-Practice: 1: Me, Cat
+  Side-Project: 3: Me
+  Join Raid: 5: Squab
+  Thought leader: 7: Me
+  Startup fails: 2: Cat
+  Side project Acquire: 6: Me, Squab
+section L'expert
+  Emeritus LEETH:  9: Me
+```
+
+## LexDAO Legal Engineers 🕶️ 1Q2024
 
 | Name | Ethereum Address | 
 |----------|:-------------:| 
@@ -57,5 +81,8 @@ Join our [discord chat](https://discord.com/invite/M4jxXmk) and check out our `C
 | Matt Blaine | [`0xECa5e3CE0774372e71cE9b3675CB07c6677C2d52`](https://etherscan.io/address/0xECa5e3CE0774372e71cE9b3675CB07c6677C2d52) | 
 | Mark Dittrich | [`0x509Bed05fA643cc4023620652b5c03d15d7E911a`](https://etherscan.io/address/0x509Bed05fA643cc4023620652b5c03d15d7E911a) | 
 | Gianluca Cattin | [`0xC316f415096223561e2077c30A26043499d579aD`](https://etherscan.io/address/0xC316f415096223561e2077c30A26043499d579aD) | 
+| Tertius    | [`0xCC976F37b22B67660D78D9BA9157ABC2131c6F5d`](https://etherscan.io/address/0xCC976F37b22B67660D78D9BA9157ABC2131c6F5d) |
+| ??? | [`0xbAEE49c72026bC7C4Baa6b446E288535Ec22F020`](https://etherscan.io/address/0xbAEE49c72026bC7C4Baa6b446E288535Ec22F020) |
+| ??? | [`0x82ab35094Fa962646a0D1baAB2866F7350B98D79`](https://etherscan.io/address/0x82ab35094Fa962646a0D1baAB2866F7350B98D79) |
 
-[Legal Engineer NFT Registry](https://opensea.io/collection/lexdao-engineering) ✨
+[Legal Engineer NFT Registry](https://opensea.io/collection/lexdao-engineering) but not for sale.✨
