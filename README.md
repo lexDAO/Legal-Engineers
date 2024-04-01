@@ -67,7 +67,7 @@ section L'expert
 | Adam Kerpelman | [`0xa3564677FC4907A15c9A7EAe1DBc1ae9aC57b8E1`](https://etherscan.io/address/0xa3564677FC4907A15c9A7EAe1DBc1ae9aC57b8E1) | $${\color{white}Lvl 3 Serjeant}$$ |
 | Stamford Hwang | [`0x4744cda32bE7b3e75b9334001da9ED21789d4c0d`](https://etherscan.io/address/0x4744cda32bE7b3e75b9334001da9ED21789d4c0d) | $${\color{white}Lvl 4 MetaMagician}$$ |
 | Bill Warren | [`0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca`](https://etherscan.io/address/0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca) | $${\color{white}Lvl 4 Evoker}$$ |
-| Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | $${\color{white}Lvl 4 Metamagician$$ |
+| Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | $${\color{white}Lvl 4 Metamagician}$$ |
 | Nick Rishwain | [`0xCbbd18d3aC27ab0FFfD04BCCd091B2802c92e0ca`](https://etherscan.io/address/0xCbbd18d3aC27ab0FFfD04BCCd091B2802c92e0ca) | $${\color{white}Lvl 3 Herald}$$ |
 | Shivanshi Tyagi | [`0xcb0592589602b841be035e1e64c2a5b1ef006aa2`](https://etherscan.io/address/0xcb0592589602b841be035e1e64c2a5b1ef006aa2) | $${\color{white}Lvl 3 Summoner}$$ |
 | Lawrence Lau | [`0x85384c23d8ae724a094b5592c53ad4015bc94574`](https://etherscan.io/address/0x85384c23d8ae724a094b5592c53ad4015bc94574) | $${\color{white}Lvl 4 DAOsigner}$$ |
