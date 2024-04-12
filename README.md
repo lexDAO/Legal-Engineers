@@ -63,16 +63,16 @@ section L'expert
 | Joshua Ma | [`0xf290f3d843826d00f8176182fd76550535f6dbb4`](https://etherscan.io/address/0xf290f3d843826d00f8176182fd76550535f6dbb4) | 
 | Alex Fagella | [`0x756CE9C56B02f05b5FaFfaFc707B552bEDce83eE`](https://etherscan.io/address/0x756ce9c56b02f05b5faffafc707b552bedce83ee) | $${\color{white}Lvl 3 Sourceror}$$ |
 | James McCall | [`0xd5B3988eD0AB5ec375E51bB6fd10e205cEC16A2E`](https://etherscan.io/address/0xd5B3988eD0AB5ec375E51bB6fd10e205cEC16A2E) | $${\color{white}Lvl 3 Serjeant}$$ |
-| Scott Stevenson | [`0x130093A5aEbc07e78e16f0EcEF09d1c45AfD8178`](https://etherscan.io/address/0x130093A5aEbc07e78e16f0EcEF09d1c45AfD8178) | $${\color{white}Lvl 4 Illusionist}$$ |
+| Scott Stevenson | [`0x130093A5aEbc07e78e16f0EcEF09d1c45AfD8178`](https://etherscan.io/address/0x130093A5aEbc07e78e16f0EcEF09d1c45AfD8178) | $${\color{white}Lvl 4- Ranger}$$ |
 | Adam Kerpelman | [`0xa3564677FC4907A15c9A7EAe1DBc1ae9aC57b8E1`](https://etherscan.io/address/0xa3564677FC4907A15c9A7EAe1DBc1ae9aC57b8E1) | $${\color{white}Lvl 3 Serjeant}$$ |
-| Stamford Hwang | [`0x4744cda32bE7b3e75b9334001da9ED21789d4c0d`](https://etherscan.io/address/0x4744cda32bE7b3e75b9334001da9ED21789d4c0d) | $${\color{white}Lvl 4 MetaMagician}$$ |
-| Bill Warren | [`0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca`](https://etherscan.io/address/0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca) | $${\color{white}Lvl 4 Evoker}$$ |
-| Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | $${\color{white}Lvl 4 Metamagician}$$ |
+| Stamford Hwang | [`0x4744cda32bE7b3e75b9334001da9ED21789d4c0d`](https://etherscan.io/address/0x4744cda32bE7b3e75b9334001da9ED21789d4c0d) | $${\color{white}Lvl 4- MetaMagician}$$ |
+| Bill Warren | [`0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca`](https://etherscan.io/address/0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca) | $${\color{white}Lvl 4- Evoker}$$ |
+| Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | $${\color{white}Lvl 4- Metamagician}$$ |
 | Nick Rishwain | [`0xCbbd18d3aC27ab0FFfD04BCCd091B2802c92e0ca`](https://etherscan.io/address/0xCbbd18d3aC27ab0FFfD04BCCd091B2802c92e0ca) | $${\color{white}Lvl 3 Herald}$$ |
 | Shivanshi Tyagi | [`0xcb0592589602b841be035e1e64c2a5b1ef006aa2`](https://etherscan.io/address/0xcb0592589602b841be035e1e64c2a5b1ef006aa2) | $${\color{white}Lvl 3 Summoner}$$ |
-| Lawrence Lau | [`0x85384c23d8ae724a094b5592c53ad4015bc94574`](https://etherscan.io/address/0x85384c23d8ae724a094b5592c53ad4015bc94574) | $${\color{white}Lvl 4 DAOsigner}$$ |
+| Lawrence Lau | [`0x85384c23d8ae724a094b5592c53ad4015bc94574`](https://etherscan.io/address/0x85384c23d8ae724a094b5592c53ad4015bc94574) | $${\color{white}Lvl 4+ DAOsigner}$$ |
 | Jordan Teague | [`0xE3bbFD7dbd338a2C1c4F28F8e06aC00589118c4B`](https://etherscan.io/address/0xE3bbFD7dbd338a2C1c4F28F8e06aC00589118c4B) | $${\color{white}Lvl 3 Enchantress}$$ |
-| Larry Florio | [`0xc04aFCeEA0BE5A8CeCe930c4e6208eb03BeCd066`](https://etherscan.io/address/0xc04aFCeEA0BE5A8CeCe930c4e6208eb03BeCd066) | $${\color{white}Lvl 4 Sniper}$$ |
+| Larry Florio | [`0xc04aFCeEA0BE5A8CeCe930c4e6208eb03BeCd066`](https://etherscan.io/address/0xc04aFCeEA0BE5A8CeCe930c4e6208eb03BeCd066) | $${\color{white}Lvl 4- Sniper}$$ |
 | Geoff Costeloe | [`0x82fab1819986492A0799f65B4DdfB6B570F881E0`](https://etherscan.io/address/0x82fab1819986492A0799f65B4DdfB6B570F881E0) | $${\color{white}Lvl 3 Slinger}$$ |
 | Gaurav Gopinath | [`0xdf01f0c6152253f45d492176c9f69ba5058b6b13`](https://etherscan.io/address/0xdf01f0c6152253f45d492176c9f69ba5058b6b13) | 
 | Jared Cohen | [`0xb42Ce7ce6eE1Dd2B7959DD6c120eFAE8Ec288E03`](https://etherscan.io/address/0xb42Ce7ce6eE1Dd2B7959DD6c120eFAE8Ec288E03) | $${\color{white}Lvl 3 Sourceror}$$ |
